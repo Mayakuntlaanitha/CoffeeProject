@@ -1,7 +1,9 @@
 # CoffeeProject
 The cafeteria project involves creating a responsive web page using HTML and CSS. 
 
-
+## Description
+CAFETERIA is a web project crafted using HTML, and CSS
+showcasing a delightful and responsive user interface.
 ## Demo
 ![coffee](https://github.com/Mayakuntlaanitha/CoffeeProject/assets/156880599/7f0ddc50-9147-4fc8-a9ee-29ff4851c048)
 ![coffee2](https://github.com/Mayakuntlaanitha/CoffeeProject/assets/156880599/3dfdcda8-3afd-49fb-8d57-26d10042d6b6)
